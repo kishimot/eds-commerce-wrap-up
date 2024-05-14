@@ -7,7 +7,7 @@ import getProductsInCategory from './queries/products.graphql.js';
 
 import './styles.css';
 
-const configFile = 'https://main--eds-commerce-wrap-up--kishimot.hlx.live/';
+const configFile = 'https://main--eds-commerce-wrap-up--kishimot.hlx.live/configs.json';
 const defaultConfig = 'prod';
 
 /**
