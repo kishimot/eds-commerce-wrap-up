@@ -41,5 +41,7 @@
     "@dropins/storefront-order-confirmation": "0.1.0-alpha20",
     "@dropins/storefront-pdp": "0.2.2-alpha24",
     "@dropins/tools": "0.22.0"
-  }
+  },
+  "main": ".eslintrc.js",
+  "keywords": []
 }
