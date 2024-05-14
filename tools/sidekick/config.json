@@ -10,6 +10,18 @@
             "url": "https://main--eds-commerce-wrap-up--kishimot.hlx.live/tools/picker/dist/index.html",
             "isPalette": true,
             "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
+        },
+        {
+        	"id": "asset-library",
+        	"title": "My Assets",
+        	"environments": [
+        	"edit"
+        	],
+        	"url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html",
+        	"isPalette": true,
+        	"includePaths": [ "**.docx**" ],
+        	"passConfig": true,
+        	"paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)"
         }
     ]
 }
